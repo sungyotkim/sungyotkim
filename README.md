@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/BannerTommyKim.png "Header")
 
-### Hi there <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="30px">
 
 <!--
 **sungyotkim/sungyotkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
