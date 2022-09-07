@@ -11,8 +11,8 @@
 
 I am currently a software engineering student at App Academy studying to become a fullstack engineer. 
 
-Technologies Used:
-![skills](https://skillicons.dev/icons?i=ruby,rails,react,redux,html,css,sass,postgres,heroku,aws,webpack,mongodb,jquery,js,express,nodejg,git,vscode&theme=light)
+## Technologies Used:
+![skills](https://skillicons.dev/icons?i=ruby,rails,react,redux,html,css,sass,postgres,heroku,aws,webpack,mongodb,jquery,js,express,nodejs,git,vscode&theme=light)
 
 ### :gear: GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungyotkim&theme=blue-green" />
