@@ -25,7 +25,7 @@ I am constantly trying to build new projects to practice code and learn but here
 
 ### :gear: GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungyotkim&theme=blue-green" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotim&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en&layout=compact" alt="sungyotkim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en&layout=compact" alt="sungyotkim" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=sungyotkim&theme=blue-green" />
 
 
