@@ -1,6 +1,7 @@
 ![Header](https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/BannerTommyKim.png "Header")
 
-### Hi there <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="30px">
+My name is Tommy Kim and I am currently a software engineering student at App Academy studying to become a fullstack engineer. My current coding skills include Ruby, Ruby on Rails, HTML, CSS, and JS.
 
 <!--
 **sungyotkim/sungyotkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
