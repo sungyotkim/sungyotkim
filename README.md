@@ -3,8 +3,10 @@
 <h1 align="center"> 
   Hi there <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="30px">
  </h1>
-<h2 align="center"> 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Tommy-Kim;color=f75c7e)](https://git.io/typing-svg)
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Tommy-Kim;color=f75c7e">
+  </a>
 </h2>
 
 I am currently a software engineering student at App Academy studying to become a fullstack engineer. 
