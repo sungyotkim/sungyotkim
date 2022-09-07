@@ -1,4 +1,4 @@
-# [![Tommy Kim header](https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/BannerTommyKim.png)]
+[![Header](https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/BannerTommyKim.png "Header")]
 
 ### Hi there 👋
 
