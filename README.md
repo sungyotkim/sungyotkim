@@ -54,8 +54,7 @@ I am constantly trying to build new projects to practice code and learn but here
 ### Leave a message or just say hello!
 <p align="center">
   <a href="https://gist.github.com/sungyotkim/b1d3737b41ff8f6e7eaf27fb284ab3d2">
-    <img src="https://gist.github.com/sungyotkim/b1d3737b41ff8f6…422af110ee35096f346965fbe27c4455/messageboard.gif" alt="Click here to sign my guestbook!">
-    <img src="https://gist.github.com/sungyotkim/b1d3737b41ff8f6e7eaf27fb284ab3d2/raw/b7c18421422af110ee35096f346965fbe27c4455/messageboard.gif" alt="messageboard.gif">
+    <img src="https://gist.github.com/sungyotkim/b1d3737b41ff8f6e7eaf27fb284ab3d2/raw/b7c18421422af110ee35096f346965fbe27c4455/messageboard.gif" alt="Click here to sign my guestbook!">
   </a>
 </p>
 
