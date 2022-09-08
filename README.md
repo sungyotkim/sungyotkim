@@ -72,7 +72,7 @@ I am constantly trying to build new projects to practice code and learn but here
 </details>
 
 <p>Here's a snake eating my github contributions</p>
-<img src="https://github.com/sungyotkim/.github-workflows/blob/output/ocean.gif?raw=true">
+<img src="https://raw.githubusercontent.com/sungyotkim/.github-workflows/008d6227f6363d64127d03f2f6386f338c2bef46/ocean.svg?token=AZFKXYONEVF2OALKFDD42BLDDIFM4">
 
 <!--
 **sungyotkim/sungyotkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
