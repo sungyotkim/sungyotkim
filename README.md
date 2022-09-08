@@ -21,8 +21,8 @@ I am constantly trying to build new projects to practice code and learn but here
 </div> -->
 
 ## Technologies Used:
-![skills](https://skillicons.dev/icons?i=ruby,rails,react,redux,html,css,sass,postgres,heroku,aws,webpack,mongodb,jquery,js,express,nodejs,git,vscode&theme=light)
-
+<!-- ![skills](https://skillicons.dev/icons?i=ruby,rails,react,redux,html,css,sass,postgres,heroku,aws,webpack,mongodb,jquery,js,express,nodejs,git,vscode&theme=light)
+ -->
 <code><img title="ruby" alt="ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></code>
 <code><img title="rails" alt="rails" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" /></code>
 <code><img title="react" alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
