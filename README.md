@@ -24,9 +24,9 @@ I am constantly trying to build new projects to practice code and learn but here
 ![skills](https://skillicons.dev/icons?i=ruby,rails,react,redux,html,css,sass,postgres,heroku,aws,webpack,mongodb,jquery,js,express,nodejs,git,vscode&theme=light)
 
 ### :gear: GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&theme=dracula&layout=compact" alt="sungyotkim" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&theme=dracula&layout=compact" alt="sungyotkim" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en&layout=compact" alt="sungyotkim" /></p> -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=sungyotkim&theme=dracula" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sungyotkim&theme=dracula" /></p>
 <p align="center"> 
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraute&theme=dracula" />
 </p>
