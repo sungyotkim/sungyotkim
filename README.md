@@ -23,6 +23,9 @@ I am constantly trying to build new projects to practice code and learn but here
 ## Technologies Used:
 ![skills](https://skillicons.dev/icons?i=ruby,rails,react,redux,html,css,sass,postgres,heroku,aws,webpack,mongodb,jquery,js,express,nodejs,git,vscode&theme=light)
 
+<img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+
 ### :gear: GitHub Stats
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&theme=dracula&layout=compact" alt="sungyotkim" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&title_color=5e8cf4&text_color=ffffff&bg_color=262d38&locale=en&layout=compact" alt="sungyotkim" /></p> -->
