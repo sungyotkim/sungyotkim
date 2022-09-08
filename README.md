@@ -12,7 +12,7 @@
 </h2>
 
 <h3 align="center">About me</h3>
-Hi there! <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="10px"> I am currently a software engineering student at App Academy studying to become a fullstack engineer. 
+<p>Hi there! <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="20px"> I am currently a software engineering student at App Academy studying to become a fullstack engineer. </p>
 
 <!-- Featured Projects -->
 <!-- ## Featured Projects
