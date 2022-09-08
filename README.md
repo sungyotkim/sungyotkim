@@ -70,6 +70,9 @@ I am constantly trying to build new projects to practice code and learn but here
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
+
+<p>Here's a snake eating my github contributions</p>
+![snake gif](https://github.com/sungyotkim/sungyotkim/blob/output/github-contribution-grid-snake.gif)
 <!--
 **sungyotkim/sungyotkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
