@@ -1,7 +1,9 @@
 ![Header](https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/BannerTommyKim.png "Header")
 
 <h1 align="center"> 
-  Welcome to Tommy Kim's Profile! <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="30px">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  Welcome to Tommy Kim's Profile! 
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
  </h1>
 <h2 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,7 +11,8 @@
   </a>
 </h2>
 
-I am currently a software engineering student at App Academy studying to become a fullstack engineer. 
+<h3 align="center">About me</h3>
+Hi there! <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="30px"> I am currently a software engineering student at App Academy studying to become a fullstack engineer. 
 
 <!-- Featured Projects -->
 <!-- ## Featured Projects
