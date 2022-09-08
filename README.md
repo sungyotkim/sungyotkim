@@ -51,7 +51,7 @@ I am constantly trying to build new projects to practice code and learn but here
   <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraute&theme=dracula" />
 </p>
 
-### Leave a message or just say hello!
+<h4 align="center">Thanks for visiing! Leave a message or just say hello!</h4>
 <p align="center">
   <a href="https://gist.github.com/sungyotkim/b1d3737b41ff8f6e7eaf27fb284ab3d2">
     <img src="https://gist.github.com/sungyotkim/b1d3737b41ff8f6e7eaf27fb284ab3d2/raw/b7c18421422af110ee35096f346965fbe27c4455/messageboard.gif" alt="Click here to sign my guestbook!">
