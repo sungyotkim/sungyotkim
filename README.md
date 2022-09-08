@@ -51,6 +51,13 @@ I am constantly trying to build new projects to practice code and learn but here
   <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraute&theme=dracula" />
 </p>
 
+### Leave a message or just say hello!
+<p align="center">
+  <a href="https://gist.github.com/sungyotkim/b1d3737b41ff8f6e7eaf27fb284ab3d2">
+    <img src="https://gist.github.com/sungyotkim/b1d3737b41ff8f6…422af110ee35096f346965fbe27c4455/messageboard.gif" alt="Click here to sign my guestbook!">
+  </a>
+</p>
+
 ### :e-mail: Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sungyotkim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sungyo-kim-ab7a30163/)
