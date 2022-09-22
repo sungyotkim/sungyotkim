@@ -15,7 +15,7 @@
 <p>Hi there! <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="15px"> I am currently a software engineering student at App Academy studying to become a fullstack engineer. </p>
 
 Featured Projects
-<## Featured Projects
+## Featured Projects
 I am constantly trying to build new projects to practice code and learn but here are the ones worth mentioning:
 
 <div align="left">
