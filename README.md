@@ -22,6 +22,10 @@ I am constantly trying to build new projects to practice code and learn but here
 <a href="https://github.com/sungyotkim/Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"></a>
 </div>
 
+<div align="center">
+<a href="https://github.com/sungyotkim/help-me-chews"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=help-me-chews&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Help Me Chews"></a>
+</div>
+
 ## Technologies Used:
 <!-- ![skills](https://skillicons.dev/icons?i=ruby,rails,react,redux,html,css,sass,postgres,heroku,aws,webpack,mongodb,jquery,js,express,nodejs,git,vscode&theme=light)
  -->
