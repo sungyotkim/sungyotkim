@@ -55,10 +55,10 @@ I am constantly trying to build new projects to practice code and learn but here
 <code><img title="vscode" alt="vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 
 ### :gear: GitHub Stats
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&theme=dracula&layout=compact" alt="sungyotkim" /></p>
-<p align="center"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=sungyotkim&theme=dracula" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&theme=jolly&layout=compact" alt="sungyotkim" /></p>
+<p align="center"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=sungyotkim&theme=jolly" /></p>
 <p align="center"> 
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraute&theme=dracula" />
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraute&theme=jolly" />
 </p>
 
 <h4 align="center">Thanks for visiting! Leave a message or just say hello!</h4>
