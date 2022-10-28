@@ -20,11 +20,11 @@ I am constantly trying to build new projects to practice code and learn but here
 
 <div display="flex">
 <div align="left">
-<a href="https://github.com/sungyotkim/Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"></a>
+<a href="https://github.com/sungyotkim/Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters&theme=midnight-purple&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"></a>
 </div>
 
 <div>
-<a href="https://github.com/sungyotkim/help-me-chews"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=help-me-chews&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Help Me Chews"></a>
+<a href="https://github.com/sungyotkim/help-me-chews"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=help-me-chews&theme=midnight-purple&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Help Me Chews"></a>
 </div>
 </div>
 
@@ -55,10 +55,10 @@ I am constantly trying to build new projects to practice code and learn but here
 <code><img title="vscode" alt="vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 
 ### :gear: GitHub Stats
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&theme=jolly&layout=compact" alt="sungyotkim" /></p>
-<p align="center"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=sungyotkim&theme=jolly" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&theme=aura&layout=compact" alt="sungyotkim" /></p>
+<p align="center"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=sungyotkim&theme=aura" /></p>
 <p align="center"> 
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraute&theme=jolly" />
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraute&theme=aura" />
 </p>
 
 <h4 align="center">Thanks for visiting! Leave a message or just say hello!</h4>
