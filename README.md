@@ -20,7 +20,7 @@ I am constantly trying to build new projects to practice code and learn but here
 
 <div display="flex">
 <div align="left">
-<a href="https://github.com/sungyotkim/Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters&theme=midnight-purple&hide_border=true&show_icons=true" alt="Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"></a>
+<a href="https://github.com/sungyotkim/Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters&theme=midnight-purple&show_icons=true" alt="Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"></a>
 </div>
 
 <div>
