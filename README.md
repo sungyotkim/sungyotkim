@@ -28,10 +28,10 @@ I am constantly trying to build new projects to practice code and learn but here
 </div>
 </div>
 
-<!-- <div>
-<a href="https://github.com/Monkwire3/Cubberd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monkwire3&repo=Cubberd&theme=react&bg_color=1F222E&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="CubberdApp"></a>
+<div>
+<a href="https://github.com/Monkwire3/Cubberd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monkwire3&repo=Cubberd&theme=midnight-purple&show_icons=true&" alt="CubberdApp"></a>
 </div>
-</div> -->
+</div> 
 
 ## Technologies Used:
 <!-- ![skills](https://skillicons.dev/icons?i=ruby,rails,react,redux,html,css,sass,postgres,heroku,aws,webpack,mongodb,jquery,js,express,nodejs,git,vscode&theme=light)
