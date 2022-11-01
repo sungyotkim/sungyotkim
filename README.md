@@ -29,7 +29,7 @@ I am constantly trying to build new projects to practice code and learn but here
 </div>
 
 <div>
-<a href="https://github.com/Monkwire3/Cubberd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Monkwire3&repo=Cubberd&theme=midnight-purple&show_icons=true&" alt="CubberdApp"></a>
+<a href="https://github.com/sungyotkim/Cubberd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=Cubberd&theme=midnight-purple&show_icons=true&" alt="CubberdApp"></a>
 </div>
 </div> 
 
