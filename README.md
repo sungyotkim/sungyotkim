@@ -60,7 +60,7 @@ I am constantly trying to build new projects to practice code and learn but here
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&theme=midnight-purple&layout=compact" alt="sungyotkim" /></p>
 <p align="center"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=sungyotkim&theme=midnight-purple" /></p>
 <p align="center"> 
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraute&theme=midnight-purple" />
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=sungyotkim&theme=midnight-purple" />
 </p>
 
 <h4 align="center">Thanks for visiting! Leave a message or just say hello!</h4>
@@ -79,7 +79,7 @@ I am constantly trying to build new projects to practice code and learn but here
 <details>
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="quotes card">
     </a>
 </details>
 
