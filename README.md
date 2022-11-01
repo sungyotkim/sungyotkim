@@ -79,7 +79,7 @@ I am constantly trying to build new projects to practice code and learn but here
 <details>
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="quotes card">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
 
