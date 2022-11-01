@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/Banner.png "Header")
 
-# [See My Website](tommykim.me)
+# [See My Website](https://tommykim.me)
 
 <h1 align="center"> 
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
