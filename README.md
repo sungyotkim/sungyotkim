@@ -63,13 +63,6 @@ I am constantly trying to build new projects to practice code and learn but here
   <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=sungyotkim&theme=midnight-purple" />
 </p>
 
-<h4 align="center">Thanks for visiting! Leave a message or just say hello!</h4>
-<p align="center">
-  <a href="https://gist.github.com/sungyotkim/b1d3737b41ff8f6e7eaf27fb284ab3d2">
-    <img src="https://gist.github.com/sungyotkim/b1d3737b41ff8f6e7eaf27fb284ab3d2/raw/b7c18421422af110ee35096f346965fbe27c4455/messageboard.gif" alt="Click here to sign my guestbook!">
-  </a>
-</p>
-
 ### :e-mail: Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sungyotkim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sungyo-kim-ab7a30163/)
@@ -85,17 +78,3 @@ I am constantly trying to build new projects to practice code and learn but here
 
 <p>Here's a snake eating my github contributions</p>
 <img src="https://github.com/sungyotkim/.github-workflows/blob/output/ocean.svg">
-<!--
-**sungyotkim/sungyotkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
