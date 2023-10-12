@@ -75,6 +75,3 @@ I am constantly trying to build new projects to practice code and learn but here
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
-
-<p>Here's a snake eating my github contributions</p>
-<img src="https://github.com/sungyotkim/.github-workflows/blob/output/ocean.svg">
