@@ -14,26 +14,7 @@
 </h2>
 
 <h3 align="center">About me</h3>
-<p>Hi there! <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="15px"> I am currently a software engineering student at App Academy studying to become a fullstack engineer. </p>
-
-Featured Projects
-## Featured Projects
-I am constantly trying to build new projects to practice code and learn but here are the ones worth mentioning:
-
-<div display="flex">
-<div align="left">
-<a href="https://github.com/sungyotkim/Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters&theme=midnight-purple&show_icons=true" alt="Dif-fur-ent-Oppawtunity-Pet-Adoptions-And-Fosters"></a>
-</div>
-
-<div>
-<a href="https://github.com/sungyotkim/help-me-chews"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=help-me-chews&theme=midnight-purple&show_icons=true" alt="Help Me Chews"></a>
-</div>
-</div>
-
-<div>
-<a href="https://github.com/sungyotkim/Cubberd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sungyotkim&repo=Cubberd&theme=midnight-purple&show_icons=true&" alt="CubberdApp"></a>
-</div>
-</div> 
+<p>Hi there! <img src="https://raw.githubusercontent.com/sungyotkim/sungyotkim/main/icon/hand-wave.gif" width="15px"> I am currently a software engineer working at arch. </p>
 
 ## Technologies Used:
 <!-- ![skills](https://skillicons.dev/icons?i=ruby,rails,react,redux,html,css,sass,postgres,heroku,aws,webpack,mongodb,jquery,js,express,nodejs,git,vscode&theme=light)
@@ -56,22 +37,7 @@ I am constantly trying to build new projects to practice code and learn but here
 <code><img title="git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="vscode" alt="vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
 
-### :gear: GitHub Stats
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sungyotkim&show_icons=true&theme=midnight-purple&layout=compact" alt="sungyotkim" /></p>
-<p align="center"><img width="55%" src="https://github-readme-stats.vercel.app/api?username=sungyotkim&theme=midnight-purple" /></p>
-<p align="center"> 
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=sungyotkim&theme=midnight-purple" />
-</p>
-
 ### :e-mail: Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sungyotkim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sungyo-kim-ab7a30163/)
 
-
-<h2>Quote of the day</h2>
-<details>
-<summary>See quote</summary>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
-    </a>
-</details>
